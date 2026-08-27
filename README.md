@@ -8,7 +8,7 @@ Serve this directory with any static file server. No Manus runtime is required b
 
 ## GitHub Pages
 
-The repository is configured for GitHub Actions Pages deployment. The custom domain is declared in `CNAME` as `story.mypawstory.com`.
+The repository is configured for GitHub Pages deployment from the `main` branch root. GitHub Pages publishes changes automatically after they are pushed. The custom domain is declared in `CNAME` as `story.mypawstory.com`.
 
 ## Language behavior
 
